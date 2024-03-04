@@ -1,3 +1,7 @@
+.seven-days__forecast {
+    margin-bottom: 40px;
+}
+
 .location {
     font-size: 60px;
     font-weight: 700;
@@ -153,6 +157,10 @@ html, body {
     .wrapper-2__title {
         padding: 20px;
     }
+
+    .seven-days__forecast {
+        margin-bottom: 40px;
+    }
 }
 
 @media (max-width: 620px) {
@@ -223,3 +231,4 @@ html, body {
 .main-template {
     text-align: center;
 }
+
